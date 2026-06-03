@@ -11942,6 +11942,13 @@
     "repo": "aaaaayushh/ai-latex-generator"
   },
   {
+    "id": "see-also-sidebar",
+    "name": "See Also Sidebar",
+    "author": "David Breece",
+    "description": "Display related notes in a sidebar view",
+    "repo": "davidbreece/obsidian-see-also-sidebar"
+  },
+  {
     "id": "serendipity",
     "name": "Serendipity",
     "author": "ggauravr",
